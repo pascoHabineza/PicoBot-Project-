@@ -1,4 +1,4 @@
-# milestone for Picobot for Pascal H.
+
 
 import random
 trials=20
